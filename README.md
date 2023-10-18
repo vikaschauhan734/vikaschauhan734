@@ -11,7 +11,7 @@
 - My profile in <a href="https://www.linkedin.com/in/sankha-subhra-mondal-540133168/">LinkedIn</a> 💼 
 - My email address chauhanvikas734@gmail.com 💻 
 - My live project implementation on <a href="https://www.youtube.com/channel/UCKPRBbMGLJJfJ0KxRxMP6xQ">YouTube</a> 🎥
-- My website <a href="https://portfolio-website-vikas-chauhan.s3.ap-south-1.amazonaws.com/home.html">https://portfolio-website-vikas-chauhan.s3.ap-south-1.amazonaws.com/home.html</a> 📹
+- My website <a href="http://portfolio-website-vikas-chauhan.s3-website.ap-south-1.amazonaws.com">http://portfolio-website-vikas-chauhan.s3-website.ap-south-1.amazonaws.com</a> 📹
 - My technical blogs in <a href="https://medium.com/@chauhanvikas734">Medium</a> ✍🏾
 - My contribution in Data Science in <a href="https://www.kaggle.com/vikaschauhan734">Kaggle</a> 🖥
 
