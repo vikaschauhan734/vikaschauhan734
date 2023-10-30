@@ -30,8 +30,6 @@ Reach me on:
 <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=vikaschauhan734&theme=radical&margin-w=40&margin-h=40) -->
 
 
-🔭 I’m currently working on - *Machine Learning, Deep Learning and NLP*
-
-👯 I’ve recently completed my internship in - *Newbieron Technologies as Data Scientist Intern*
+🔭 I’m currently working on - *Machine Learning, Deep Learning, Computer Vision and NLP*
 
 😄 Words that describe me - *Passionate, Logical, Self-motivated, Hardworking & Thoughtful.*
